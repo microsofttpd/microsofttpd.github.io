@@ -1,0 +1,20 @@
+---
+layout: post
+title: Business Portal for Dynamics GP Compatibility Issue
+date: 2014-12-15 09:17
+author: sivakumar v
+comments: true
+categories: [Articles, Business Portal, Compatibility Issue, Dynamics GP, Internet Explorer, KB3008923, Sivakumar Venkataraman, Uncategorized]
+---
+<p style="text-align:left;"><a title="Sivakumar Venkataraman - Click for blog homepage"><img width="80" height="95" align="right" alt="Sivakumar Venkataraman - Click for blog homepage" src="https://microsofttpd.github.io/assets/0871.sivav.jpg" border="0" hspace="10" /></a>Recently, we have become aware of a new compatibility issue with a Windows Update for Internet Explorer, that is causing the following two issues in Requisition Management and Human Resources Management (HRM) in Business Portal versions 5.0, 5.1, 6.0 and 6.1 for both Microsoft Dynamics GP 2010 and Dynamics GP 2013:</p>
+<p>For Requisition Management, the issue is that, when attempting to add an item to a new or existing requisition, in the &#39;Add Item&#39; window, when you click on the lookup and select a Item Number, Vendor, Account or Site, when you select the object, it doesn&#39;t populate in the &#39;Add Item&#39; window and the field remains blank.</p>
+<p><a href="https://microsofttpd.github.io/assets/clip_image001_5A40A2B4.jpg" original-url="https://microsofttpd.github.io/assets/clip_image001_5A40A2B4.jpg"><img width="422" height="469" title="clip_image001" style="background-image:none;padding-top:0px;padding-left:0px;display:inline;padding-right:0px;border:0px;" alt="clip_image001" src="https://microsofttpd.github.io/assets/clip_image001_thumb_1281AA7E.jpg" original-url="https://microsofttpd.github.io/assets/clip_image001_thumb_1281AA7E.jpg" border="0" /></a></p>
+<p>For Human Resources Management (HRM), in HRM Timecard Entry, the &#39;Timecard Detail&#39; window will show completely blank.</p>
+<p><a href="https://microsofttpd.github.io/assets/clip_image002_1218083A.jpg" original-url="https://microsofttpd.github.io/assets/clip_image002_1218083A.jpg"><img width="568" height="456" title="clip_image002" style="background-image:none;padding-top:0px;padding-left:0px;display:inline;padding-right:0px;border:0px;" alt="clip_image002" src="https://microsofttpd.github.io/assets/clip_image002_thumb_036FED06.jpg" original-url="https://microsofttpd.github.io/assets/clip_image002_thumb_036FED06.jpg" border="0" /></a></p>
+<p>The root cause for both these issues is the same Windows Update, KB 3008923: <a title="MS14-080: Cumulative security update for Internet Explorer: December 9, 2014" href="http://support.microsoft.com/kb/3008923" target="_blank">MS14-080: Cumulative security update for Internet Explorer: December 9, 2014</a>.</p>
+<p>We currently have this documented in both a CR and PR to be fixed but for time being, we only have the following work-around options:</p>
+<ol>
+<li>On the machine(s) experiencing these issues in Requisition Management or HRM, uninstall the KB 3008923 Windows Update from Control Panel &gt; Programs and Features, then reboot the machine to complete the installation. <span style="color:#ff0000;"><em><strong>***Warning: Please understand this is a security update for Internet Explorer, so only uninstall this security update if absolutely necessary to use Requisition Management and/or Human Resources Management in Business Portal.</strong></em></span></li>
+<li>For Requisition Management, you can manually enter the Item Number, Vendor, Account and Site information, which is required in order to final approve a requisition. Make sure the information entered manually into the &#39;Add Item&#39; window is spelled exactly how it is within Microsoft Dynamics GP, to avoid any issues with the application not being able to verify the information being manually entered.</li>
+</ol>
+<p>Being Requisition Management and Human Resources Management (HRM) are our most-installed features in Business Portal, we wanted to make this information available to the public and are currently working on getting a fix for this important issue as quickly as possible.</p>

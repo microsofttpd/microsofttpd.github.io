@@ -1,0 +1,28 @@
+---
+layout: post
+title: Setting up Bing Maps with Dynamics CRM 2013 On Premise
+date: 2013-11-08 06:48
+author: sivakumar v
+comments: true
+categories: [Articles, Bing Maps, Dynamics CRM 2013, Sivakumar Venkataraman, Trial Key, Uncategorized]
+---
+<p style="text-align: left;"><a title="Sivakumar Venkataraman - Click for blog homepage"><img src="https://microsofttpd.github.io/assets/0871.sivav.jpg" alt="Sivakumar Venkataraman - Click for blog homepage" width="80" height="95" align="right" border="0" hspace="10" /></a> In this article I will provide the steps required to be completed in order to set up Bing Maps in Dynamics CRM 2013.</p>
+<p>If the Bing map key is not entered correctly you end up with the following message on each Bing map "<em>The specified credentials are invalid. You can sign up for a free developer account at https://www.bingmapsportal.com</em>", as you see in the screenshot below.</p>
+<p><a href="https://microsofttpd.github.io/assets/5700.8_5E8B9CEA.png" original-url="https://microsofttpd.github.io/assets/5700.8_5E8B9CEA.png"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="8" src="https://microsofttpd.github.io/assets/2211.8_thumb_0C0F4D5F.png" original-url="https://microsofttpd.github.io/assets/2211.8_thumb_0C0F4D5F.png" alt="8" width="613" height="245" border="0" /></a></p>
+<p>Please follow the steps outlined below in order to create a Bing Maps trial key.</p>
+<p>Open Internet Explorer and access the URL <a href="https://www.bingmapsportal.com">https://www.bingmapsportal.com</a> . Once the page opens, you would notice an option to login using your Live ID.</p>
+<p><a href="https://microsofttpd.github.io/assets/8424.1_76B428A7.jpg" original-url="https://microsofttpd.github.io/assets/8424.1_76B428A7.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="1" src="https://microsofttpd.github.io/assets/3515.1_thumb_615903F0.jpg" original-url="https://microsofttpd.github.io/assets/3515.1_thumb_615903F0.jpg" alt="1" width="615" height="279" border="0" /></a></p>
+<p>Once you enter your Live ID and login, the system would take you to the portal home page, with an announcement displayed. Ignore the announcement.</p>
+<p><a href="https://microsofttpd.github.io/assets/2480.3_7E61B2B8.jpg" original-url="https://microsofttpd.github.io/assets/2480.3_7E61B2B8.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="3" src="https://microsofttpd.github.io/assets/2844.3_thumb_7DF81074.jpg" original-url="https://microsofttpd.github.io/assets/2844.3_thumb_7DF81074.jpg" alt="3" width="617" height="223" border="0" /></a></p>
+<p>Click on the link called &ldquo;<em>Create or View Links</em>&rdquo; under My Accounts. It would open the form to create a new key.</p>
+<p><a href="https://microsofttpd.github.io/assets/3465.4_1B00BF3D.jpg" original-url="https://microsofttpd.github.io/assets/3465.4_1B00BF3D.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="4" src="https://microsofttpd.github.io/assets/3240.4_thumb_05A59A86.jpg" original-url="https://microsofttpd.github.io/assets/3240.4_thumb_05A59A86.jpg" alt="4" width="616" height="507" border="0" /></a></p>
+<p>Enter the required details and click on the Submit button to generate the new key.</p>
+<p><a href="https://microsofttpd.github.io/assets/6431.5_33294AFA.jpg" original-url="https://microsofttpd.github.io/assets/6431.5_33294AFA.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="5" src="https://microsofttpd.github.io/assets/0508.5_thumb_2244A70A.jpg" original-url="https://microsofttpd.github.io/assets/0508.5_thumb_2244A70A.jpg" alt="5" width="614" height="228" border="0" /></a></p>
+<p>Once the keys are generated, you can view the keys from the same page at the bottom.</p>
+<p><a href="https://microsofttpd.github.io/assets/0385.2013-11-08_195752_022C2AFE.jpg" original-url="https://microsofttpd.github.io/assets/0385.2013_11_08_195752_022C2AFE.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="2013-11-08_195752" src="https://microsofttpd.github.io/assets/8738.2013-11-08_195752_thumb_7147870D.jpg" original-url="https://microsofttpd.github.io/assets/8738.2013_11_08_195752_thumb_7147870D.jpg" alt="2013-11-08_195752" width="614" height="271" border="0" /></a></p>
+<p>Once the keys are generated, you can go to CRM Settings window (Settings &gt;&gt; Administration &gt;&gt; System Settings) and go to the General Tab.</p>
+<p>You will notice a section called &ldquo;Enable Bing Maps&rdquo;, under which you can copy-paste the Bing Maps trial key which you have generated.</p>
+<p><a href="https://microsofttpd.github.io/assets/4174.7_75546590.jpg" original-url="https://microsofttpd.github.io/assets/4174.7_75546590.jpg"><img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="7" src="https://microsofttpd.github.io/assets/0245.7_thumb_26E263D7.jpg" original-url="https://microsofttpd.github.io/assets/0245.7_thumb_26E263D7.jpg" alt="7" width="614" height="764" border="0" /></a></p>
+<p>Alternatively you can always switch off the Bing map feature on the form by setting the "<em>Show Bing Maps on forms</em>" value to "<em>No</em>".</p>
+<p>I hope this helps&hellip;</p>
+<p>Until next post!</p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Dynamics GP 2013 Web Client - Phase I Feature Details
+date: 2013-01-17 05:58
+author: sivakumar v
+comments: true
+categories: [Articles, Dynamics GP 2013, Feature List, Sivakumar Venkataraman, Uncategorized, Web Client, Whats New]
+---
+<p style="text-align: left;"><a title="Sivakumar Venkataraman - Click for blog homepage"><img src="https://microsofttpd.github.io/assets/0871.sivav.jpg" alt="Sivakumar Venkataraman - Click for blog homepage" width="80" height="95" align="right" border="0" hspace="10" /></a>There have been many questions and requests from partners as to the details of the features which are enabled in the first release of the Web Client for Dynamics GP 2013.</p>
+<p>We do have a PowerPoint slide prepared by <a title="Pam Misialek" href="http://blogs.msdn.com/b/gp/archive/2013/01/11/what-is-included-with-the-microsoft-dynamics-gp-2013-web-client-in-phase-one.aspx" target="_blank">Pam Misialek</a> which provides details of all the features which are available with the first release of the GP 2013 Web Client. The link for downloading this slide deck is attached at the end of this article.</p>
+<p>The second release of the Web Client is also in progress and is planned to be released during March/April timeframe. This release will include the HR and Payroll functionality built into it. That's good to hear!</p>
+<p><strong>Download:</strong></p>
+<p><a href="https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/95/09/2335.document-powerpoint.png" original-url="http://blogs.technet.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-95-09/2335.document_powerpoint.png"><img style="max-width: 550px;" src="https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/95/09/2335.document-powerpoint.png" original-url="http://blogs.technet.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-95-09/2335.document_powerpoint.png" alt="" border="0" />&nbsp;</a><a title="Microsoft Dynamics GP 2013 Web Client Phase 1" href="https://msdnshared.blob.core.windows.net/media/TNBlogsFS/prod.evol.blogs.technet.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/00/95/09/PPT/6523.Microsoft%20Dynamics%20GP%202013%20Web%20Client%20Phase%201.pptx" original-url="http://blogs.technet.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-95-09-PPT/6523.Microsoft-Dynamics-GP-2013-Web-Client-Phase-1.pptx" target="_blank">Microsoft Dynamics GP 2013 Web Client Phase 1</a></p>

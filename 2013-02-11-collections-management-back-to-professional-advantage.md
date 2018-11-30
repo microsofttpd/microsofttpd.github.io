@@ -1,0 +1,21 @@
+---
+layout: post
+title: Collections Management - Back to Professional Advantage!
+date: 2013-02-11 01:04
+author: sivakumar v
+comments: true
+categories: [Articles, Collections Management, Dynamics GP 2013, Perpetual Licensing, Professional Advantage, Relationship Change, Sivakumar Venkataraman, Uncategorized]
+---
+<p style="text-align: left;"><a title="Sivakumar Venkataraman - Click for blog homepage"><img src="https://microsofttpd.github.io/assets/0871.sivav.jpg" alt="Sivakumar Venkataraman - Click for blog homepage" width="80" height="95" align="right" border="0" hspace="10" /></a>Microsoft was in charge of sales, maintenance and support of Collections Management for about 12 years now. However, with the launch of Dynamics GP 2013, Microsoft has transitioned the ongoing sales, maintenance and support of this module back to its original Independent Software Vendor (ISV) - Professional Advantage.&nbsp;<a title="Errol Schoenfish" href="http://blogs.msdn.com/181517/ProfileUrlRedirect.ashx" target="_blank">Errol Schoenfish</a> discusses on this topic in his article below.</p>
+<p><a title="Collections Management for Microsoft Dynamics&amp;reg; GP transitions back to the original Independent Software Vendor (ISV)" href="http://blogs.msdn.com/b/gp/archive/2013/02/08/collections-management-for-microsoft-dynamics-174-gp-transitions-back-to-the-original-independent-software-vendor-isv.aspx" target="_blank">Collections Management for Microsoft Dynamics&reg; GP transitions back to the original Independent Software Vendor (ISV)</a></p>
+<p>Effective June 1, 2013, Collections Management for Microsoft Dynamics GP will no longer be offered by Microsoft and all associated SKUs will be removed from all versions of the Microsoft Dynamics GP Price List. &nbsp;Please note that Collections Management will continue to be offered under the Microsoft Services Provider License Agreement (SPLA) until further notice. &nbsp;Beginning June 1, 2013, new licenses to Collections Management will only be available for purchase via channel partners registered with Professional Advantage.&nbsp;</p>
+<p>Microsoft will continue to meet its obligations for Collections Management that it released through the support lifecycle for the applicable version of Microsoft Dynamics GP.</p>
+<p>These changes affect Microsoft Dynamics GP customers on Module Based licensing (MBL) and Perpetual Licensing who previously obtained licenses to Collections Management via the Microsoft Dynamics GP price list, and all Microsoft Dynamics GP Advanced Management customers on Business Ready Licensing (BRL). &nbsp;All of these customers with licenses to Collections Management will continue to receive new releases, enhancements and support by signing up for a maintenance plan with Professional Advantage through their channel partner.</p>
+<p>As of this announcement, Professional Advantage will make a new release of Collections Management available June 1, 2013, that is enhanced with new features and functionality including: significant timesaving improvements, utilizing collection plans to automate collection steps; integration with non-Microsoft Dynamics GP invoicing systems; Quick Start setup wizards; and improved reporting. You can view the roadmap for Collections Management by Professional Advantage <a title="here" href="http://www.profad.com/products/collections-management/" target="_blank">here</a>.</p>
+<p>You can view more information about this Collections Management relationship change in the links below.</p>
+<p><strong>PartnerSource</strong></p>
+<p><a title="Collections Management Relationship Change - PartnerSource" href="https://mbs.microsoft.com/partnersource/support/selfsupport/productreleases/MSDGPCollectionsMgmt" target="_blank">https://mbs.microsoft.com/partnersource/support/selfsupport/productreleases/MSDGPCollectionsMgmt</a></p>
+<p><strong>CustomerSource</strong></p>
+<p><a title="Collections Management Relationship Change - CustomerSource" href="https://mbs.microsoft.com/customersource/downloads/servicepacks/MSDGPCollectionsMgmt" target="_blank">https://mbs.microsoft.com/customersource/downloads/servicepacks/MSDGPCollectionsMgmt</a></p>
+<p>I hope this helps the community...</p>
+<p>Until next post!</p>

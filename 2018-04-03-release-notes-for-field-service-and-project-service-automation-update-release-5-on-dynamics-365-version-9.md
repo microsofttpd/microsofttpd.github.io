@@ -1,0 +1,9 @@
+---
+layout: post
+title: Release Notes for Field Service and Project Service Automation Update Release 5 on Dynamics 365 version 9
+date: 2018-04-03 16:48
+author: sivakumar v
+comments: true
+categories: [Dynamics 365, Dynamics 365, Field Service, Microsoft Dynamics, Project Service, Release Notes, Sivakumar Venkataraman]
+---
+<p><strong>Applies to: Field Service for Dynamics 365, Project Service Automation for Dynamics 365, and Universal Resource Scheduling (URS) solution on Dynamics 365 9.0.x</strong><p>We’re pleased to announce the latest update to the Field Service and Project Service Automation applications for Dynamics 365. This release includes improvements to quality, performance, and usability, and is based on your feedback and requests.<p>This release is compatible with Dynamics 365 9.0.x. To update to this release, visit the Admin Center for Dynamics 365 online, solutions page to install the update. For details, refer <a href="https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/install-remove-preferred-solution" target="_blank">How to Install, Update a Preferred Solution</a><p>The major improvement is the GDPR compliance which has been made available in this release for PSA &amp; FSA. There are also fixes for quite a few bugs and improvements in Field Service, Project Service and Universal Resource Scheduling. <p>You can get more details about this from the product team blog article in the link below.<p><a title="https://blogs.msdn.microsoft.com/crm/2018/04/03/release-notes-for-field-service-and-project-service-automation-update-release-5/" href="https://blogs.msdn.microsoft.com/crm/2018/04/03/release-notes-for-field-service-and-project-service-automation-update-release-5/" target="_blank">https://blogs.msdn.microsoft.com/crm/2018/04/03/release-notes-for-field-service-and-project-service-automation-update-release-5/</a><p>Happy Learning!</p>
